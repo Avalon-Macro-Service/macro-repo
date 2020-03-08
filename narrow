@@ -1,0 +1,8 @@
+load/narrow
+modifier/koth
+toggle/zero,sub4s
+ac/winpoints/300
+ac/lives/11
+bal/*
+respawn/*
+resetstats/*
