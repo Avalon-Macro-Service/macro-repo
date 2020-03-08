@@ -4,3 +4,4 @@ toggle/replication,service
 ac/winpoints/80
 bal/*
 respawn/*
+resetstats/*
