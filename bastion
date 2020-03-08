@@ -1,0 +1,8 @@
+load/bastion
+modifier/dom
+toggle/firefly,type_15
+ac/lives/11
+ac/winpoints/500
+bal/*
+respawn/*
+resetstats/*
