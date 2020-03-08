@@ -5,6 +5,5 @@ ac/regencratesmax/120
 toggle/sword
 toggle/service
 ac/lives/1
-bal/*
-respawn/*
+set/*/red
 resetstats/*
