@@ -1,0 +1,10 @@
+load/largeforrest
+modifier/crates,regencrates,weapondrop,ffa
+ac/regencratesmin/60
+ac/regencratesmax/120
+toggle/sword
+toggle/service
+ac/lives/1
+bal/*
+respawn/*
+resetstats/*
