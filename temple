@@ -1,0 +1,7 @@
+load/temple
+modifier/ctf
+toggle/designation,zero,sword
+ac/lives/11
+bal/*
+respawn/*
+resetstats/*
