@@ -1,5 +1,6 @@
 load/colosseum
 modifier/penguin,icemap,onehitkill
+crouch/off
 ac/walkspeed/64
 toggle/sword
 ac/lives/11
