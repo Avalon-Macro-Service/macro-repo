@@ -1,0 +1,7 @@
+load/colosseum
+modifier/penguin,icemap,onehitkill
+ac/walkspeed/64
+toggle/sword
+ac/lives/11
+set/*/red
+resetstats/*
