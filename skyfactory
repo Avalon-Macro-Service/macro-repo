@@ -1,7 +1,7 @@
 load/skyfactory
 modifier/gravityswitch
 toggle/dragonshout
-ac/lives/5
+ac/lives/7
 ac/gravityondelay/60
 ac/gravityoffdelay/20
 bal/*
