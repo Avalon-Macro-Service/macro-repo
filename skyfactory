@@ -1,0 +1,9 @@
+load/skyfactory
+modifier/gravityswitch
+toggle/dragonshout
+ac/lives/5
+ac/gravityondelay/60
+ac/gravityoffdelay/20
+bal/*
+respawn/*
+resetstats/*
