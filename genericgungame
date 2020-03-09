@@ -1,9 +1,0 @@
-modifier/gungame
-untoggle/*
-toggle/service/red,blue/0
-toggle/sub4s/red,blue/1
-toggle/saw/red/5
-toggle/type_15/blue/5
-toggle/rse/red,blue/6
-toggle/replication/red,blue/12
-toggle/rotational/red,blue/15
