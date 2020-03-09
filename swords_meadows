@@ -2,6 +2,7 @@ load/meadows
 modifier/tdm
 toggle/sword
 ac/winpoints/80
+ac/lives/-1
 bal/*
 respawn/*
 resetstats/*
