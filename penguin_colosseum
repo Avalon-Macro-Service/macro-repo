@@ -1,5 +1,5 @@
 load/colosseum
-modifier/penguin,icemap,onehitkill,ffa
+modifier/penguin,icemap,onehitkill,ffa,noff
 crouch/off
 ac/walkspeed/64
 toggle/sword
