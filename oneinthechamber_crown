@@ -1,8 +1,8 @@
 load/crown
 modifier/resetammo
-toggle/sword,revolver
+toggle/rse,revolver
 ac/lives/-1
-ac/maxkills/20
+ac/maxkills/10
 bal/*
 respawn/*
 resetstats/*
