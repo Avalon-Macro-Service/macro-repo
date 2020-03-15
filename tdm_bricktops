@@ -1,7 +1,7 @@
 load/bricktops
 modifier/tdm
 toggle/replication,service
-ac/winpoints/80
+ac/winpoints/60
 ac/lives/-1
 bal/*
 respawn/*
