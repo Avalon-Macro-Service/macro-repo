@@ -1,7 +1,8 @@
 load/colosseum
 toggle/sword
 modifier/ffa
+sprint/off
 ac/lives/5
-bal/*
+set/*/red
 respawn/*
 resetstats/*
