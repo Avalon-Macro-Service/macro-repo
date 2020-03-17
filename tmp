@@ -1,0 +1,11 @@
+load/nordicvolcano
+modifier/crates,regencrates,weapondrop,ffa,circleofdeath
+removemodifier/br
+ac/regencratesmin/60
+ac/regencratesmax/120
+toggle/sword
+toggle/service
+ac/lives/1
+set/*/red
+resetstats/*
+ff/*
