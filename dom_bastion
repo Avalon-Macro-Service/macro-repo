@@ -1,8 +1,8 @@
-load/bastion
+load/Bastion
 modifier/dom
 toggle/firefly
 toggle/type_15
-ac/lives/11
+ac/lives/-1
 ac/winpoints/500
 bal/*
 respawn/*
