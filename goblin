@@ -1,0 +1,10 @@
+resetstats/all
+load/turbine
+modifier/koth
+ac/winpoints/150
+crouch/off
+sprint/on
+ac/lives/-1
+toggle/sword
+bal/*
+start/
