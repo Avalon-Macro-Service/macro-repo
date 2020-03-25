@@ -1,0 +1,9 @@
+resetstats/all
+load/turbine
+crouch/on
+sprint/on
+modifier/ctf
+ac/lives/-1
+toggle/r-homefront,r-hurricane
+bal/*
+start/
