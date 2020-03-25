@@ -4,10 +4,10 @@ crouch/off
 sprint/on
 ac/walkspeed/32
 ac/size/0.4
-ac/lives/3
-ac/winpoints/200
+ac/lives/1
+ac/winpoints/300
 ac/walkspeedtarget/blue
 ac/sizetarget/blue
-modifier/dom
+modifier/dom,onehitkill,resetammo
 toggle/build/blue
-toggle/type_15/red
+toggle/rotational/red
