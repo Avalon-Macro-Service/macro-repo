@@ -1,0 +1,13 @@
+resetstats/all
+load/thortops
+crouch/off
+ac/walkspeed/32
+ac/size/0.4
+ac/lives/3
+ac/walkspeedtarget/blue
+ac/sizetarget/blue
+modifier/dom
+toggle/build/blue
+toggle/type_15/red
+bal/*
+start/
