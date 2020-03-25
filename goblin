@@ -1,5 +1,5 @@
 resetstats/all
-load/turbine
+load/goblin
 modifier/koth
 ac/winpoints/150
 crouch/off
