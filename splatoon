@@ -3,7 +3,7 @@ load/turbine
 crouch/on
 sprint/off
 modifier/tdm
-ac/maxpoints/60
+ac/winpoints/60
 ac/lives/-1
 toggle/smg
 bal/*
