@@ -1,7 +1,7 @@
 load/stonebrick
 modifier/koth
 toggle/sword
-ac/lives/11
+ac/lives/-1
 bal/*
 respawn/*
 resetstats/*
