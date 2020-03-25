@@ -1,9 +1,11 @@
 resetstats/all
 load/thortops
 crouch/off
-ac/walkspeed/24
+sprint/on
+ac/walkspeed/32
 ac/size/0.4
 ac/lives/3
+ac/maxpoints/200
 ac/walkspeedtarget/blue
 ac/sizetarget/blue
 modifier/dom
