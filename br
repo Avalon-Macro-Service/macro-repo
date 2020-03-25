@@ -1,4 +1,4 @@
-load/largeforest
+load/largeforrest
 modifier/crates,regencrates,weapondrop,ffa,circleofdeath
 ac/regencratesmin/60
 ac/regencratesmax/120
