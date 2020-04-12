@@ -1,0 +1,7 @@
+load/swordbridge
+modifier/koth
+ac/winpoints/100
+toggle/sword/*
+bal/*
+rs/*
+respawn/*
