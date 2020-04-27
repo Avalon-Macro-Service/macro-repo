@@ -1,0 +1,13 @@
+load/bricktops
+modifier/gungame
+toggle/designation/*/0
+toggle/replication/*/3
+toggle/firefly/*/6
+toggle/cypher/*/9
+toggle/rotational/*/12
+toggle/M3-D/*/15
+toggle/spider/*/15
+ac/lives/11
+bal/*
+respawn/*
+resetstats/*
