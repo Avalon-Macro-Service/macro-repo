@@ -1,0 +1,9 @@
+load/remains
+modifier/koth
+toggle/type_15
+toggle/saw
+toggle/build
+respawn/*
+balance/*
+respawn/all
+rs/all
