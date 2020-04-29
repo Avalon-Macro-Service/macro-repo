@@ -1,0 +1,15 @@
+load/city
+ac/sizetarget/blue
+ac/size/20
+ac/healthtarget/blue
+ac/health/20000
+team/all/red
+rs/all
+toggle/service/red
+toggle/m3-d/red
+modifier/assasinate
+ac/lives/11
+rs/all
+respawn/all
+toggle/firefly/blue
+toggle/dragonshout/blue
