@@ -1,0 +1,8 @@
+load/city
+modifier/assasinate
+toggle/type_15
+toggle/service
+balance/*
+rs/all
+ac/lives/-1
+respawn/all
