@@ -1,0 +1,12 @@
+load/city
+ac/sizetarget/blue
+ac/size/3
+toggle/firefly/blue
+toggle/dragonshout/blue
+toggle/m3-d/red
+toggle/medpack/red
+ac/lives/3
+rs/all
+team/all/red
+respawn/all
+m/A giant has been set loose! Survive!/10m
