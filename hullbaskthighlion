@@ -1,0 +1,9 @@
+load/drsparliament
+toggle/sword/red
+toggle/medpack/blue
+team/all/blue
+respawn/all
+crouch/false
+sprint/true
+rs/all
+ac/lives/-1
