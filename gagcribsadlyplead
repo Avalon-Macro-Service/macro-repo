@@ -1,0 +1,12 @@
+load/turbine
+modifier/ctf
+balance/*
+ac/lives/-1
+crouch/false
+sprint/false
+rs/all
+toggle/sword
+respawn/all
+ac/pointsperflag/1
+ac/winspoints/3
+ac/winpoints/3
