@@ -1,0 +1,14 @@
+load/city
+modifier/assasinate
+ac/sizetarget/blue
+ac/size/4
+ac/healthtarget/blue
+ac/health/3000
+modifier/noregen
+ac/crouch/true
+ac/sprint/true
+team/all/red
+rs/all
+toggle/firefly/red
+toggle/m3-d/red
+respawn/all
