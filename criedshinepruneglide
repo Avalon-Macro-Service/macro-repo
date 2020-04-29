@@ -1,0 +1,7 @@
+load/turbine
+modifier/assasinate
+toggle/sword
+ac/lives/-1
+rs/all
+balance/*
+respawn/all
