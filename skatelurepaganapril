@@ -1,0 +1,9 @@
+load/rural
+modifier/koth
+balance/*
+ac/lives/-1
+crouch/false
+sprint/true
+rs/all
+respawn/all
+toggle/sword
