@@ -1,0 +1,13 @@
+load/city
+modifier/assassinate
+modifier/assasinate
+ac/sizetarget/blue
+ac/size/4
+ac/healthtarget/blue
+ac/health/3000
+ac/noregen/true
+ac/regen/false
+modifier/noregen
+team/all/red
+rs/all
+respawn/all
