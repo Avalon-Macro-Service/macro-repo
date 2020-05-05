@@ -1,0 +1,11 @@
+load/trains
+toggle/minigun/*/0
+untoggle/minigun/*/0
+modifier/gungame
+toggle/minigun/*/0
+toggle/firefly/*/5
+toggle/service/*/10
+ac/lives/-1
+balance/*
+respawn/all
+rs/all
