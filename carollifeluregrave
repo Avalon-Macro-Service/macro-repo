@@ -1,0 +1,32 @@
+load/thortops
+modifier/gungame
+balance/*
+rs/all
+respawn/all
+toggle/TROPICS-Flamethrower/*/0
+toggle/TROPICS-MG52/*/1
+toggle/TROPICS-Hurricane/*/2
+toggle/TROPICS-Sub4/*/3
+toggle/TROPICS-FST_L/*/4
+toggle/DAROX-Machine Gun/*/5
+toggle/sword/*/7
+toggle/LEV-VZ4/*/8
+toggle/TROPICS-Homefront/*/9
+toggle/R-Theory/*/10
+toggle/TG-Zero/*/11
+toggle/LEV-Solitaire/*/12
+toggle/TDF-Lightning/*/13
+toggle/Dragonshout MK II/*/14
+toggle/ELITE-Rifle/*/15
+toggle/ELITE-Revolver/*/16
+toggle/ELITE-Sniper/*/17
+toggle/3RD-Pistol/*/18
+toggle/Darox-Revolver/*/19
+toggle/R-Cycler/*/20
+toggle/TROPICS-MachP/*/21
+toggle/R-AR/*/22
+toggle/Service/*/23
+toggle/RSE/*/24
+ac/maxkills/25
+ac/lives/-1
+m/Every KO is a new gun, goodluck. First to 25 KOs wins.
