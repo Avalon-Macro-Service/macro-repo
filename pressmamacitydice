@@ -1,0 +1,9 @@
+load/assault
+modifier/koth
+toggle/replication
+toggle/m3-d
+ac/lives/-1
+ac/winpoints/300
+m/King of the hill, 300 points. Unlimited lives. Have fun!
+balance/*
+rs/all
