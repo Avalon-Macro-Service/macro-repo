@@ -1,0 +1,8 @@
+load/colosseum
+modifier/ffa
+modifier/resetammo
+ac/maxlives/-1
+ac/maxkills/30
+toggle/rev
+toggle/sword
+rs/all
