@@ -1,0 +1,11 @@
+load/grassyfrontier
+rs/all
+toggle/firefly
+toggle/m3-d
+balance/*
+modifier/koth
+ac/winpoints/300
+m/KOTH to 300 points, no outscore.
+ac/lives/-1
+ac/lives/-1
+respawn/all
