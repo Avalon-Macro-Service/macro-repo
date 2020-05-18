@@ -1,0 +1,16 @@
+load/bricktops
+modifier/gungame
+toggle/firefly/*/0
+toggle/m3-d/*/15
+toggle/service/*/15
+modifier/healthreset
+modifier/resethealth
+crouch/true
+sprint/true
+ac/lives/11
+poi/obby
+obby/2
+rs/all
+balance/*
+respawn/all
+m/TDM, at 15 kills your firefly is replaced by M3-D & service. Health resets whenever you kill somebody. Outscore is 11.
