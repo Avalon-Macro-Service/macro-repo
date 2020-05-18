@@ -1,0 +1,25 @@
+load/pitgrounds
+modifier/gungame
+toggle/firefly/*/0
+toggle/silenced/*/2
+toggle/sword/*/3
+toggle/replication/Blue/4
+toggle/designation/Red/4
+toggle/designation/Blue/5
+toggle/Replication/Red/5
+toggle/type_15/*/6
+toggle/cypher/*/7
+toggle/rotational/*/8
+toggle/saw/*/9
+toggle/service/*/9
+toggle/TDF-Ligh/*/10
+toggle/R-Arch/*/11
+toggle/zero/*/12
+toggle/R-Theory/*/13
+toggle/RSE/*/14
+ac/maxkills/15
+ac/lives/-1
+balance/*
+rs/all
+respawn/all
+m/Gun progression game, a new gun every kill. Win at 15 kills, no outscore.
