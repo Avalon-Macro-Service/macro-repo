@@ -1,0 +1,11 @@
+load/jumppads
+toggle/cypher
+toggle/saw
+ac/lives/-1
+crouch/true
+sprint/true
+modifier/koth
+ac/winpoints/300
+balance/*
+poi/lobby
+m/King of the hill, 300 points.
