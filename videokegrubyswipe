@@ -1,0 +1,8 @@
+load/jungle
+modifier/koth
+toggle/sword
+balance/*
+ac/winpoints/300
+m/Float swords, KOTH 300, no outscore
+ac/lives/-1
+rs/all
