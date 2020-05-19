@@ -1,0 +1,9 @@
+load/city
+toggle/cypher
+toggle/m3-d
+toggle/lamp
+ac/lives/-1
+modifier/koth
+ac/winpoints/300
+balance/*
+m/KOTH 300, no outscore, M3-D is medgun.
