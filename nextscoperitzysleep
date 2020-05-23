@@ -1,0 +1,10 @@
+load/seashore
+toggle/cypher
+toggle/m3-d
+toggle/lamp
+modifier/koth
+ac/winpoints/300
+ac/lives/-1
+m/KOTH 300
+balance/*
+rs/all
