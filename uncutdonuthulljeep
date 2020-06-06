@@ -1,0 +1,16 @@
+load/faircity
+modifier/gungame
+toggle/saw/red,blue/0
+toggle/smg/red,blue/1
+toggle/service/red,blue/2
+toggle/replication/red,blue/3
+toggle/rotational/red,blue/4
+toggle/firefly/red,blue/5
+toggle/type_15/red,blue/6
+toggle/zero/red,blue/7
+toggle/rse/red,blue/8
+toggle/stumpy/red,blue/9
+toggle/sword/red,blue/10
+rs/all
+balanceteams/*
+ff/all
