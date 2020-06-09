@@ -1,0 +1,10 @@
+load/small_forest
+toggle/revolver
+toggle/bmnt
+modifier/ffa
+modifier/resetammo
+ac/lives/-1
+ac/maxkills/30
+rs/all
+team/all/blue
+m/One in the Chamber. Your ammo only reloads when you get a KO with either weapon.
