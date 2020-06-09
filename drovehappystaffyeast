@@ -1,0 +1,10 @@
+load/varcia
+modifier/koth
+modifier/ctf
+toggle/cypher
+toggle/m3-d
+toggle/RSE
+ac/lives/-1
+balance/*
+m/First team to 300 points. Capturing a flag gives 80 points to your team. Every second you hold the hill is a point for your team.
+rs/all
