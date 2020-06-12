@@ -1,0 +1,7 @@
+load/colloseum
+modifier/resetammo
+modifier/ffa
+toggle/rev
+toggle/sword
+ac/maxlives/-1
+ac/maxkills/30
