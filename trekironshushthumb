@@ -1,0 +1,8 @@
+load/badlands
+toggle/cypher
+toggle/m3-d
+rs/*
+sprint/true
+crouch/true
+ac/maxlives/11
+balance/*
