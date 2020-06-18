@@ -1,0 +1,17 @@
+load/pitgrounds
+toggle/designation
+rs/*
+ac/healthtarget/red
+ac/health/1000
+ac/sizetarget/red
+ac/size/2.2
+ac/walkspeedtarget/red
+ac/walkspeed/10
+ac/sizetarget/blue
+ac/size/0.6
+ac/walkspeedtarget/blue
+ac/walkspeed/28
+ac/maxlives/5
+balance/*
+change/%red/wos/3
+m/ One team are slow giants with large health, the other are fast and agile but have less health! Giants have 2 lives, others have 5
