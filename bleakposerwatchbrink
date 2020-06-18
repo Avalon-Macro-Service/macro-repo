@@ -1,0 +1,15 @@
+load/pitgrounds
+toggle/designation
+rs/*
+ac/healthtarget/red
+ac/health/1000
+ac/sizetarget/red
+ac/size/2.2
+ac/walkspeedtarget/red
+ac/walkspeed/10
+ac/maxlives/5
+balance/*
+change/%red/wos/3
+crouch/true
+sprint/true
+m/ One team are slow moving giants with lots of health but 2 lives. The others have 5 lives. Good luck!
