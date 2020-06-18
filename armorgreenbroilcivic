@@ -1,0 +1,11 @@
+load/varcia
+toggle/rse
+toggle/replication
+toggle/build
+modifier/koth
+ac/maxlives/-1
+ac/winpoints/300
+sprint/true
+crouch/true
+rs/*
+balance/*
