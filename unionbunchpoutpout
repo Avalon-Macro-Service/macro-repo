@@ -1,0 +1,14 @@
+load/bastion
+rs/*
+ac/maxlives/5
+toggle/dragonshout/blue
+toggle/sword/red
+balance/*
+respawn/*
+change/%blue/wos/4
+crouch/true
+walkspeed/all/0
+sprint/true
+walkspeed/me/16
+give/me/sword
+m/ The Dragonshout team will be in the centre with 1 life each. Please give me a moment to move the team
