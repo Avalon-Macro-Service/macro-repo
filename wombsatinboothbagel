@@ -1,0 +1,16 @@
+rs/*
+crouch/true
+sprint/true
+load/pitgrounds
+toggle/designation
+balance/*
+ac/maxlives/7
+ac/sizetarget/red
+ac/size/2.2
+ac/walkspeedtarget/red
+ac/walkspeed/10
+ac/healthtarget/red
+ac/health/1300
+change/%red/wos/5
+modifier/noregen
+m/ This is a round of Giants vs Dwarfs. 7 WOS OS. The Giants may be big and slow but their health buff makes them strong opponents.
