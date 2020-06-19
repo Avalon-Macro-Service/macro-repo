@@ -1,0 +1,10 @@
+rs/*
+crouch/false
+sprint/true
+load/goblin
+toggle/bmnt
+modifier/ffa
+ac/maxkills/25
+m/ This is a FFA game. First to 25 KO's.
+balance/*
+respawn/*
