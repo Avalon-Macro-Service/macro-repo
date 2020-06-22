@@ -1,0 +1,17 @@
+load/grassyfrontier
+ac/lives/-1
+modifier/koth
+modifier/gungame
+ac/winpoints/300
+toggle/firefly/red,blue/0
+toggle/saw/red,blue/1
+toggle/replication/red,blue/2
+toggle/stumpy/red,blue/3
+toggle/service/red,blue/4
+toggle/cypher/red,blue/5
+toggle/smg/red,blue/6
+toggle/sword/red,blue/7
+toggle/rotational/red,blue/8
+toggle/firefly/red,blue/9
+rs/all
+balanceteams/*
