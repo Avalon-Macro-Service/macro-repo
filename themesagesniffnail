@@ -1,0 +1,8 @@
+load/coldfront
+toggle/replication
+toggle/m3-d
+modifier/koth
+ac/winpoints/300
+ac/maxlives/-1
+balance/
+start/
