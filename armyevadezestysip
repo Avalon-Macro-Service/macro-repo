@@ -1,0 +1,8 @@
+load/thortops
+modifier/dom
+modifier/koth
+toggle/bmnt
+ac/lives/-1
+ac/winpoints/300
+ac/winpoints/500
+balance/*
