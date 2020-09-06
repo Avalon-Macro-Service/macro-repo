@@ -1,0 +1,6 @@
+load/maze
+modifier/ctf
+toggle/bmnt
+balance/*
+m/First team to 3 captures wins
+ac/lives/-1
