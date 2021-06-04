@@ -1,0 +1,10 @@
+load/tranquility
+modifier/ctf
+toggle/bmnt
+ac/lives/-1
+ac/winpoints/3
+ac/pointsperflag/1
+bal/all
+resetstats/all
+timer/10m
+re/all
