@@ -1,0 +1,11 @@
+load/varcia
+modifier/ctf
+toggle/cypher
+toggle/medpack
+toggle/spider
+ac/lives/-1
+ac/pointsperflag/1
+ac/winpoints/3
+bal/all
+resetstats/all
+re/all
