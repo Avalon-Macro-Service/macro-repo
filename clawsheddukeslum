@@ -1,0 +1,7 @@
+load/narrowgil
+toggle/sub
+toggle/m3-d
+ac/maxlives/3
+bal/all
+resetstats/all
+re/all
