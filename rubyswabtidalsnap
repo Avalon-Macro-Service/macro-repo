@@ -1,0 +1,8 @@
+load/Coldfront
+ac/walkspeed/16
+ac/health/150
+bal/
+respawn/all
+rs/all
+m/ Begin!
+toggle/cyp,m3
