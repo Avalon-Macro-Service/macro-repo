@@ -1,0 +1,9 @@
+load/Factory
+toggle/BMNT,cyp
+ac/walkspeed/16
+ac/maxlives/-1
+ac/maxkills/30
+bal/
+respawn/all
+rs/all
+m/begin!
