@@ -1,0 +1,9 @@
+load/maze
+toggle/bmnt-sword
+ac/lives/11
+ac/maxkills/25
+ac/winpoints/3
+ac/pointsperflag/1
+bal/*
+respawn/*
+resetstats/*
