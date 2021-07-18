@@ -1,0 +1,7 @@
+load/SwordPlains
+modifier/koth
+toggle/bmnt-sword
+ac/lives/-1
+ac/winpoints/180
+bal/*
+respawn/*
