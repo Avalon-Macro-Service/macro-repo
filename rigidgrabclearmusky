@@ -1,0 +1,9 @@
+load/bricktops
+modifier/tdm
+ac/lives/-1
+ac/maxkills/40
+ac/winpoints/70
+toggle/type_15,spider
+bal/*
+rs/*
+respawn/*
