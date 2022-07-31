@@ -1,0 +1,10 @@
+load/pittgrounds
+modifier/koth
+ac/winpoints/180
+ac/lives/-1
+toggle/cypher
+toggle/m3
+resetstats/all
+bal/all
+h/ King of the Hill
+re/all
