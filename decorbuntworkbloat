@@ -1,0 +1,7 @@
+load/bastion
+toggle/replication
+toggle/m3
+ac/lives/-1
+resetstats/all
+bal/all
+re/all
