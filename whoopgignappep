@@ -1,0 +1,8 @@
+load/bricktops
+toggle/replication
+ac/lives/-1
+bal/all
+modifier/koth
+ac/winpoints/120
+resetstats/all
+respawn/all
