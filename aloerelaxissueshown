@@ -1,0 +1,11 @@
+load/asgard
+toggle/replication
+toggle/service
+modifier/ctf
+ac/lives/-1
+ac/pointsperflag/1
+ac/winpoints/3
+resetstats/all
+bal/all
+h/ Capture the flag!
+re/all
