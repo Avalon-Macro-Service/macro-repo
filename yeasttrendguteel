@@ -1,0 +1,10 @@
+rs/*
+load/grassyfront
+modifier/tdm
+modifier/assasinate
+ac/winpoints/100
+ac/pointsperkill/5
+toggle/cypher
+toggle/m3
+h/ Grassy Frontier, 5 points per kill but make sure to protect your vip
+m/ Trainer, make sure to set VIP
