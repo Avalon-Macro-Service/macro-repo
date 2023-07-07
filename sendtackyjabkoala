@@ -1,0 +1,9 @@
+load/cache
+modifier/koth
+ac/winpoints/75
+toggle/bmnt-zero,anuragrad-fst,bmnt-sword,build/blue
+toggle/bmnt-type,anuragrad-arc,bmnt-sw,build/red
+ac/maxlives/-1
+rs/all
+start/
+h/WARNING: YOUR ENEMY WILL HAVE DIFFERENT WEAPONS.
